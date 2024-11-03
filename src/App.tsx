@@ -6,7 +6,7 @@ function App() {
   console.log('hello git');
   console.log('commit 0');
   console.log('commit 1');
-
+  console.log("branch 2")
   return (
     <div className="App">
       <header className="App-header">
