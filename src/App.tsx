@@ -6,6 +6,7 @@ function App() {
   console.log('hello git');
   console.log('commit 0');
   console.log('commit 1');
+  console.log('commit branch 1');
 
   return (
     <div className="App">
