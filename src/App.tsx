@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   console.log('hello git');
   console.log('commit 0');
+  console.log('commit 1');
 
   return (
     <div className="App">
