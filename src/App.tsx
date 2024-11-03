@@ -3,12 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  console.log('commit 0');
-  console.log('commit 1');
-  console.log("branch 2");
-
-  console.log("commit 0");
-  console.log("commit 1");
+  console.log('i have just pull the old');
   return (
     <div className="App">
       <header className="App-header">
